@@ -1,0 +1,27 @@
+{
+  "profiles": [
+    {
+      "name": null,
+      "bindings": {},
+      "left_handed": false
+    },
+    {
+      "name": null,
+      "bindings": {},
+      "left_handed": false
+    },
+    {
+      "name": null,
+      "bindings": {},
+      "left_handed": false
+    },
+    {
+      "name": null,
+      "bindings": {},
+      "left_handed": false
+    }
+  ],
+  "profile_num": 0,
+  "dpi": 1200.0,
+  "device": "Brain"
+}
