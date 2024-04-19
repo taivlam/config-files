@@ -17,5 +17,6 @@ System76.
 
 ## Note
 The application crashes when importing/exporting the config file on Arch Linux.
+
 See: pop-os/mouse-configurator#24.
 
