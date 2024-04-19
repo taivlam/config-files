@@ -1,4 +1,4 @@
-# My personal configuration files
+# Personal configuration files
 I have some configuration files saved here, especially if they are short and
 hardly change.
 
