@@ -1,0 +1,11 @@
+@import url("file:///android_asset/styles.css");
+
+body {
+    background: black;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
