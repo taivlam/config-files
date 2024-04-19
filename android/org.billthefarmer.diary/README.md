@@ -5,6 +5,9 @@ entries for the [Diary](https://billthefarmer.github.io/diary/) app on Android.
 Diary's source code is on [GitHub](https://github.com/billthefarmer/diary) and
 is currently only distributed on [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/).
 
+(The directory's name is based on Diary's Android
+[application ID](https://developer.android.com/build/configure-app-module#set-application-id).)
+
 ## Research
 From the project's [README](https://github.com/billthefarmer/diary#readme), a
 [dark theme](https://github.com/billthefarmer/diary/blob/master/data/dark.md)
