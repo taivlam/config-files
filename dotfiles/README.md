@@ -16,3 +16,11 @@ Good resources to look back on for customizing the Bash
 * GNU Bash documentation [page](https://www.gnu.org/software/bash/manual/html_node/Controlling-the-Prompt.html)
     * Conveniently the special characters listed are used in [Xfce](https://en.wikipedia.org/wiki/Xfce) applets
 
+## POSIX-compliance?
+Not sure if I'll explore [POSIX](https://en.wikipedia.org/wiki/POSIX)-compliance.
+Apparently, an application's dotfile isn't supposed to be in a user's home
+directory (for example, `~/.vimrc`) for Vim, but instead in the configuration
+directory (i.e., `~/.config`).  I'll have to double check that fact; and
+although I understand this is neater with respect to file organization/structure,
+I'll have to check how many applications on my machines are actually POSIX-compliant.
+
