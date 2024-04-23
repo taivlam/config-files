@@ -48,3 +48,7 @@ System76 is a listed LVFS [vendor](https://fwupd.org/lvfs/vendors/#system76),
 which is a good sign, and hopefully more of its devices will come onto the LVFS
 [device list](https://fwupd.org/lvfs/devices/).
 
+## Links
+* Shoutout to the person in 2022 who did board-level repair on their Launch keyboard on [Reddit](https://old.reddit.com/r/System76/comments/xngaro/fixing_my_launch_keyboard_myself_and_shoutout_to/)
+    * Their experience was written up on [GitHub](https://github.com/kelvie/org-public/blob/main/2022-09-18-launch-repair.org)
+
