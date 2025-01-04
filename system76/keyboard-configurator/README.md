@@ -35,7 +35,7 @@ versions in the Launch Keyboard line:
     * [`launch_heavy_1`](https://tech-docs.system76.com/models/launch_heavy_1/README.html)
         * which has [firmware](https://fwupd.org/lvfs/devices/com.system76.launch_heavy_1.firmware) on the LVFS
     * [`launch_heavy_3`](https://tech-docs.system76.com/models/launch_heavy_3/README.html)
-* Launch Lite keyboard (a [a 67% design](https://deskthority.net/wiki/60%25))
+* Launch Lite keyboard (a 67% design, which is close to a [60% design](https://deskthority.net/wiki/60%25))
     * [`launch_lite_1`](https://tech-docs.system76.com/models/launch_lite_1/README.html)
         * which has [firmware](https://fwupd.org/lvfs/devices/com.system76.launch_lite_1.firmware) on the LVFS
 
