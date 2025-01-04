@@ -25,7 +25,8 @@ System76 [support page](https://support.system76.com/articles/launch_2-firmware-
 According to the technical documents (as of April 2024), these are the available hardware
 versions in the Launch Keyboard line:
 
-* Launch keyboard (a [76% design](https://deskthority.net/wiki/75%25)) (I see what you did there, System76)
+* Launch keyboard (a 76% design, which is close to a [75% design](https://deskthority.net/wiki/75%25))
+    * (I see what you did there, System76)
     * [`launch_1`](https://tech-docs.system76.com/models/launch_1/README.html)
         * which has [firmware](https://fwupd.org/lvfs/devices/com.system76.launch_1.firmware) on the [LVFS](https://en.wikipedia.org/wiki/Fwupd#Linux_Vendor_Firmware_Service)
     * [`launch_2`](https://tech-docs.system76.com/models/launch_2/README.html)
